@@ -16,10 +16,10 @@
 
 
 <a href="https://github.com/tarekDz2019">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekDz2019&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarek-berkane&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/tarekDz2019">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekDz2019&show_icons=true&theme=light&line_height=27" alt="tarekDz2019 github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekDz2019&show_icons=true&theme=light&line_height=27" alt="tarek-berkane github stats"/>
 </a>
 
 
