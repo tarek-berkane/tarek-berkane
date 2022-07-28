@@ -9,6 +9,9 @@
 <p align="center">  
     <a href="https://docs.djangoproject.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="35" height="35" />
+    </a> 
+    <a href="https://wagtail.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/39895dd8d8d8815a246266087b17fc109c7f707d/src/drivers/webextension/images/icons/Wagtail.svg" alt="Flask" width="35" height="35" />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="35" height="35" />
