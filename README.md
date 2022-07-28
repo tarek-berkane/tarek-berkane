@@ -1,31 +1,34 @@
+<h1 align="center">Hi 👋, I'm Tarek </h1> 
+<h3 align="center">A passionate web and mobile developer from Algeria</h3>
 
-## Hola, I'm Tarek berkane 👋
+- 🔭 I’m currently working on my [Portfolio](https://github.com/tarek-berkane/wagtail_crisp)
+- 🌱 I’m currently learning more about Django, FastAPI and Flutter.
+- 📫 How to reach me **tarekg320@gmail.com**
 
-- 🔭 I’m currently working on [broken-plural-app](https://github.com/tarekDZ2019/broken-plural-app).
-- 🌱 I’m currently learning more about Django and Flutter.
+<h3 align="center">Languages and Tools</h3>
+<p align="center">  
+    <a href="https://docs.djangoproject.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="35" height="35" />
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="35" height="35" />
+    </a>
+        <a href="https://fastapi.tiangolo.com/" target="_blank"> 
+        <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="FastAPI" width="35" height="35" />
+    </a>
+    <a href="https://flutter.dev" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35" />
+    </a>
+    <a href="https://redis.io" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg" alt="redis"
+            width="35" height="35" /> 
+    </a> 
+</p>
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/tarek-berkane"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarek-berkane&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="tarek-berkane's GitHub stats" /></a>
 
-**Languages and Tools:**  
+<a href="https://github.com/tarek-berkane" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarek-berkane&langs_count=4&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>  
-
-
-<a href="https://github.com/tarek-berkane">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarek-berkane&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/tarek-berkane">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarek-berkane&show_icons=true&theme=light&line_height=27" alt="tarek-berkane github stats"/>
-</a>
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
+<a href="http://www.github.com/tarek-berkane"><img src="https://activity-graph.herokuapp.com/graph?username=tarek-berkane&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
