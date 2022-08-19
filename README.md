@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarek </h1> 
 <h3 align="center">A passionate web and mobile developer from Algeria</h3>
 
-- 🔭 I’m currently working on  Fkarni
+- 🔭 I’m currently working on  Library ikraa   
 - 🌱 I’m currently learning more about Django, FastAPI and Flutter.
 - 📫 How to reach me **tarekg320@gmail.com**
 - 👨‍💻 Websites:
