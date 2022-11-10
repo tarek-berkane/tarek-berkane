@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning more about Django, FastAPI and Flutter.
 - 📫 How to reach me **tarekg320@gmail.com**
 - 👨‍💻 Websites:
-    - [codingdz auth](https://auth.codingdz.com/) English
-    - [codingdz](https://codingdz.com/) Arabic
+    - [codingdz](https://codingdz.com/) 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">  
     <a href="https://docs.djangoproject.com/" target="_blank"> 
