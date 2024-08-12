@@ -12,14 +12,10 @@
         <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="35" height="35" />
     </a> 
     <a href="https://wagtail.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/39895dd8d8d8815a246266087b17fc109c7f707d/src/drivers/webextension/images/icons/Wagtail.svg" alt="Flask" width="35" height="35" />
+        <img src="https://avatars.githubusercontent.com/u/23708009?s=48&v=4" alt="Flask" width="35" height="35" />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="35" height="35" />
-    </a>
-        <a href="https://fastapi.tiangolo.com/" target="_blank"> 
-        <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="FastAPI" width="35" height="35" />
-    </a>
     <a href="https://flutter.dev" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35" />
     </a>
@@ -35,7 +31,6 @@
 
 <a href="https://github.com/tarek-berkane" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarek-berkane&langs_count=4&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/tarek-berkane"><img src="https://activity-graph.herokuapp.com/graph?username=tarek-berkane&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ## Support me
 <a href="https://www.buymeacoffee.com/TarekBerkane">
