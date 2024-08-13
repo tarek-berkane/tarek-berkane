@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tarek </h1> 
 <h3 align="center">A passionate web and mobile developer from Algeria</h3>
 
-- 🔭 I’m currently working at DzExpert   
-- 🌱 I’m currently learning more about Django and Flutter.
-- 📫 How to reach me **tarekg320@gmail.com**
-- 👨‍💻 Websites:
-    - [codingdz](https://codingdz.com/) 
+- 🔭 I’m currently working at [DzExpert](http://www.dzexpert.com/).   
+- 🌱 I’m currently learning more about Django/Odoo and Flutter.
+- 📫 How to reach me **tarekg320@gmail.com**.
+- 👨‍💻 Personal Website:
+    - [codingdz](https://codingdz.com/)
+    - [portfolio](https://portfolio.codingdz.com/)
+
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center">  
     <a href="https://docs.djangoproject.com/" target="_blank"> 
@@ -27,9 +30,8 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tarek-berkane"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarek-berkane&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="tarek-berkane's GitHub stats" /></a>
+<a href="http://www.github.com/tarek-berkane"  ><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarek-berkane&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="tarek-berkane's GitHub stats"  /></a>
 
-<a href="https://github.com/tarek-berkane" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarek-berkane&langs_count=4&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ## Support me
