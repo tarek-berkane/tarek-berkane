@@ -17,8 +17,8 @@
     <a href="https://wagtail.org/" target="_blank"> 
         <img src="https://avatars.githubusercontent.com/u/23708009?s=48&v=4" alt="Flask" width="35" height="35" />
     </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="35" height="35" />
+    <a href="https://www.odoo.com/" target="_blank"> 
+        <img src="https://media.licdn.com/dms/image/v2/D4E0BAQF91OMQCIi4dQ/company-logo_200_200/company-logo_200_200/0/1691657301051/odoo_logo?e=1740009600&v=beta&t=FGl-rPUCTZpjsS7A6i8UdtoVKYqzrqrv_0aRfgi22Hw" alt="Odoo" width="35" height="35" />
     <a href="https://flutter.dev" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35" />
     </a>
@@ -27,14 +27,3 @@
             width="35" height="35" /> 
     </a> 
 </p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/tarek-berkane"  ><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarek-berkane&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="tarek-berkane's GitHub stats"  /></a>
-
-
-
-## Support me
-<a href="https://www.buymeacoffee.com/TarekBerkane">
-    <img src='button/snapshot-bmc-button.png' alt='buy me a coffe button' />
-</a>
