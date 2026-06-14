@@ -4,6 +4,3 @@
 - 🔭 I’m currently working at [ATDD](https://www.linkedin.com/company/atdd/).   
 - 🌱 I’m currently learning more about Django/Odoo and Flutter.
 - 📫 How to reach me **tarekg320@gmail.com**.
-- 👨‍💻 Personal Website:
-    - [codingdz](https://codingdz.com/)
-    - [portfolio](https://portfolio.codingdz.com/)
